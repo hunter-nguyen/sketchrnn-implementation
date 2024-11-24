@@ -1,3 +1,6 @@
-tensorflow>=2.0.0
-numpy>=1.19.2
-matplotlib>=3.3.2 
+streamlit
+streamlit-drawable-canvas
+numpy
+matplotlib
+tensorflow
+pillow
